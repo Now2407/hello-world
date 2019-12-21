@@ -1,4 +1,4 @@
-# hello world
+# Hello World
 
 You may use this domain to create the future without prior coordination or asking for permission.
 
